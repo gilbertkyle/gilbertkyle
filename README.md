@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently a student at Fullstack Academy. Web development with React, Next, Django, PostgreSQL 
+Currently a student at Fullstack Academy. Web development with React, Next, Django, PostgreSQL and more!
 <!--
 **gilbertkyle/gilbertkyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
